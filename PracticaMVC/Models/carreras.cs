@@ -3,7 +3,7 @@
 namespace PracticaMVC.Models
 {
     public class carreras
-    {
+    { 
         [Key]
 
         [Display(Name = "ID")]
